@@ -1,2 +1,2 @@
 # PHYS203-notes
-Notes written prereading from Schroeder textbook before taken PHYS 203
+Notes that were written while prereading from Schroeder textbook before taking PHYS 203
